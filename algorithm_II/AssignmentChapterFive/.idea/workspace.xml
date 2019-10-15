@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/lift/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.22.1" />
+      </map>
+    </option>
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1210346835">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="9" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="18" />
+          <entry key="png" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="14" />
+          <entry key="java" value="5098" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5098" />
+          <entry key="PLAIN_TEXT" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1266760855">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3385" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3385" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="522352593">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="PLAIN_TEXT" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4763" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4763" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="209948606">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="13" />
+          <entry key="png" value="19" />
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="19" />
+          <entry key="JAVA" value="13" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="6" />
+          <entry key="java" value="5087" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5087" />
+          <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1832861522">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2360" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2360" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-207266670">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="13" />
+          <entry key="txt" value="46" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="13" />
+          <entry key="PLAIN_TEXT" value="46" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4941" />
+          <entry key="txt" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4941" />
+          <entry key="PLAIN_TEXT" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-224112074">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="3" />
+          <entry key="java" value="2781" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2781" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MoveToFront.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CircularSuffixArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="113" column="34" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CircularSuffixArray_.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aesop.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BurrowsWheeler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abra.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Helloworld.java" />
+        <option value="$PROJECT_DIR$/ColidingDisks.java" />
+        <option value="$PROJECT_DIR$/CollidingDisks.java" />
+        <option value="$PROJECT_DIR$/Percolation_visualized.java" />
+        <option value="$PROJECT_DIR$/PercolationVisualizer.java" />
+        <option value="$PROJECT_DIR$/Percolation.java" />
+        <option value="$PROJECT_DIR$/PercolationStats.java" />
+        <option value="$PROJECT_DIR$/Dequeue.java" />
+        <option value="$PROJECT_DIR$/Permutation.java" />
+        <option value="$PROJECT_DIR$/Deque.java" />
+        <option value="$PROJECT_DIR$/RandomizedQueue.java" />
+        <option value="$PROJECT_DIR$/Digraph.java" />
+        <option value="$PROJECT_DIR$/Outcast.java" />
+        <option value="$PROJECT_DIR$/SAP.java" />
+        <option value="$PROJECT_DIR$/WordNet.java" />
+        <option value="$PROJECT_DIR$/SeamCarver_.java" />
+        <option value="$PROJECT_DIR$/PrintEnergy.java" />
+        <option value="$PROJECT_DIR$/PrintSeams.java" />
+        <option value="$PROJECT_DIR$/ResizeDemo.java" />
+        <option value="$PROJECT_DIR$/SeamCarver_origin.java" />
+        <option value="$PROJECT_DIR$/SeamCarver.java" />
+        <option value="$PROJECT_DIR$/BaseballElimination.java" />
+        <option value="$PROJECT_DIR$/dict-dodo .txt" />
+        <option value="$PROJECT_DIR$/dict-dodo.txt" />
+        <option value="$PROJECT_DIR$/BoggleSolver_before.java" />
+        <option value="$PROJECT_DIR$/BoggleSolver.java" />
+        <option value="$PROJECT_DIR$/burrows/test.java" />
+        <option value="$PROJECT_DIR$/test.java" />
+        <option value="$PROJECT_DIR$/CircularSuffixArray.java" />
+        <option value="$PROJECT_DIR$/MoveToFront.java" />
+        <option value="$PROJECT_DIR$/CircularSuffixArray_.java" />
+        <option value="$PROJECT_DIR$/aesop.txt" />
+        <option value="$PROJECT_DIR$/BurrowsWheeler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="105" />
+    <option name="y" value="20" />
+    <option name="width" value="940" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <showLibraryContents PackagesPane="false" />
+      <autoscrollToSource PackagesPane="true" ProjectPane="true" />
+      <autoscrollFromSource PackagesPane="true" ProjectPane="true" />
+      <sortByType Scope="true" PackagesPane="true" ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hello, World" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hello, World" type="58d84e3e:PackageViewProjectNode" />
+              <item name="COS 126" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovvo\Desktop\Algorithms by Princeton\algorithm II\AssignmentChapterTwo\seam" />
+      <recent name="C:\Users\lenovvo\Desktop\Algorithms by Princeton\algorithm II\AssignmentChapterOne" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CircularSuffixArray">
+    <configuration name="BaseballElimination" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BaseballElimination" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="teams32.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BoggleSolver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BoggleSolver" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="dictionary-algs4.txt board-points750.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CircularSuffixArray" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CircularSuffixArray" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="ABRACADABRA!" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CollidingDisks" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CollidingDisks" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dequeue" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Deque" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Helloworld" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Helloworld" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Outcast" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Outcast" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="synsets.txt hypernyms.txt outcast10.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Percolation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Percolation" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="2 10000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PercolationVisualizer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PrintEnergy" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PrintEnergy" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PrintSeams" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PrintSeams" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="6x5.png" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomizedQueue" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomizedQueue" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ResizeDemo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ResizeDemo" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="4x6.png 1 1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SAP" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SAP" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="digraph1.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WordNet" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WordNet" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="synsets.txt hypernyms.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+    <configuration name="burrows.test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="burrows.test" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Helloworld" />
+      <item itemvalue="Application.Percolation" />
+      <item itemvalue="Application.CollidingDisks" />
+      <item itemvalue="Application.PercolationStats" />
+      <item itemvalue="Application.PercolationVisualizer" />
+      <item itemvalue="Application.Dequeue" />
+      <item itemvalue="Application.RandomizedQueue" />
+      <item itemvalue="Application.WordNet" />
+      <item itemvalue="Application.SAP" />
+      <item itemvalue="Application.Outcast" />
+      <item itemvalue="Application.PrintEnergy" />
+      <item itemvalue="Application.PrintSeams" />
+      <item itemvalue="Application.ResizeDemo" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.BaseballElimination" />
+      <item itemvalue="Application.BoggleSolver" />
+      <item itemvalue="Application.burrows.test" />
+      <item itemvalue="Application.CircularSuffixArray" />
+    </list>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16182299" />
+      <window_info id="Structure" order="1" show_stripe_button="false" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4980185" weight="0.79155314" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32904148" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.24795641" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5019815" side_tool="true" weight="0.28337875" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32561308" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1340819" />
+      <window_info id="Structure" order="1" show_stripe_button="false" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49867898" visible="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32904148" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32833788" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.501321" side_tool="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32561308" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/4x6.printseams.txt" />
+    <entry file="file://$PROJECT_DIR$/6x5.png" />
+    <entry file="file://$PROJECT_DIR$/PrintSeams.java" />
+    <entry file="file://$PROJECT_DIR$/ResizeDemo.java" />
+    <entry file="file://$PROJECT_DIR$/SeamCarver_origin.java" />
+    <entry file="file://$PROJECT_DIR$/SeamCarver.java" />
+    <entry file="file://$PROJECT_DIR$/BaseballElimination.java" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-couscous.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-diagonal.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-inconsequentially.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-horizontal.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-dichlorodiphenyltrichloroethanes.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-estrangers.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-noon.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/Algorithms, Part II.iml" />
+    <entry file="file://$PROJECT_DIR$/boggle/dictionary-2letters.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/dictionary-16q.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-dodo.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/BoggleBoard.java" />
+    <entry file="file://$PROJECT_DIR$/boggle/board4x4.txt" />
+    <entry file="file://$PROJECT_DIR$/dict-dodo .txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/dictionary-algs4.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-16q.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-aqua.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-antidisestablishmentarianisms.txt" />
+    <entry file="file://$PROJECT_DIR$/board-dodo.txt" />
+    <entry file="file://$PROJECT_DIR$/board-antidisestablishmentarianisms.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-points1.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-points0.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-points4410.txt" />
+    <entry file="file://$PROJECT_DIR$/boggle/board-points26539.txt" />
+    <entry file="file://$PROJECT_DIR$/board-points1250.txt" />
+    <entry file="file://$PROJECT_DIR$/board-16q.txt" />
+    <entry file="file://$PROJECT_DIR$/board-aqua.txt" />
+    <entry file="file://$PROJECT_DIR$/dict-dodo.txt" />
+    <entry file="file://$PROJECT_DIR$/dictionary-algs4.txt" />
+    <entry file="file://$PROJECT_DIR$/BoggleSolver_before.java" />
+    <entry file="file://$PROJECT_DIR$/board-q.txt" />
+    <entry file="file://$PROJECT_DIR$/BoggleBoard.java" />
+    <entry file="file://$PROJECT_DIR$/board4x4.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/StringLatin1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="285" column="63" selection-start-line="285" selection-start-column="63" selection-end-line="285" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoggleSolver.java" />
+    <entry file="file://$PROJECT_DIR$/burrows/test.java" />
+    <entry file="file://$PROJECT_DIR$/abra.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CircularSuffixArray_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aesop.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CircularSuffixArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="113" column="34" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MoveToFront.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BurrowsWheeler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>COS 126</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>COS 126</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
